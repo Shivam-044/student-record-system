@@ -1,13 +1,22 @@
-# Student Record System
+# 🎓 Student Record System
 
-A Python program to store and display student records using file handling.
+A simple and efficient Python program to manage student records using file handling.
 
-## Features
-- Add student records
-- View saved records
+---
 
-## How to Run
+## ✨ Features
+
+- ➕ Add new student records  
+- 📄 View saved student records  
+- 💾 Data stored persistently in a text file  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.x installed
+
+### Run the Program
+```bash
 python main.py
-
-## Tech Used
-- Python
