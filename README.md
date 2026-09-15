@@ -8,6 +8,7 @@ A robust, command-line interface (CLI) application built with Python to efficien
 
 ---
 
+<<<<<<< Updated upstream
 ## 🌟 Key Features
 
 - **Persistent Data Storage**: All records are saved locally in a structured text format.
@@ -27,3 +28,10 @@ A robust, command-line interface (CLI) application built with Python to efficien
 Ensure you have Python installed on your machine. You can check by running:
 ```bash
 python --version
+=======
+## Tech Used
+- Python
+
+## Status
+Project completed and maintained.
+>>>>>>> Stashed changes
