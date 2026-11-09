@@ -8,7 +8,7 @@ A robust, command-line interface (CLI) application built with Python to efficien
 
 ---
 
-<<<<<<< Updated upstream
+<<<<< Updated upstream
 ## 🌟 Key Features
 
 - **Persistent Data Storage**: All records are saved locally in a structured text format.
